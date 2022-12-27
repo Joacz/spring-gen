@@ -7,14 +7,14 @@
 ## Features
 
 - Code Snippets:
-  > sfmodel (generates a model class: shorthand is sfm)
-  > sfservice (generates a service interface: shorthand is sfs)
-  > sfrestcontroller (generates a Rest Controller class: shorthand is sfrc)
-  > sfcontroller (generates a Controller class: shorthand is sfc)
-  > sfserviceimp (generates a Service Implementation class: shorthand is sfsi)
-  > ssconfig (generates a Security Config class: shorthand is ssc)
-  > sfmultipartutil (generates a Multipart Util class: shorthand is sfmul)
-  > sfrepository (generates a Repository: shorthand is sfrepo)
+  - sfmodel (generates a model class: shorthand is sfm)
+  - sfservice (generates a service interface: shorthand is sfs)
+  - sfrestcontroller (generates a Rest Controller class: shorthand is sfrc)
+  - sfcontroller (generates a Controller class: shorthand is sfc)
+  - sfserviceimp (generates a Service Implementation class: shorthand is sfsi)
+  - ssconfig (generates a Security Config class: shorthand is ssc)
+  - sfmultipartutil (generates a Multipart Util class: shorthand is sfmul)
+  - sfrepository (generates a Repository: shorthand is sfrepo)
 
 ## Release Notes
 
