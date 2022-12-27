@@ -2,10 +2,11 @@
   "name": "spring-gen",
   "displayName": "SpringGEN",
   "description": "Spring Framework code snippets: Allows you to make your production time faster, creating your Controllers, Services, Repositories, Models, etc, with snippets! stop wasting your time coding unnecesary code.",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^1.74.0"
   },
+  "icon": "./SpringGEN-logo.jpg",
   "publisher": "Joagz",
   "repository": {
     "url": "https://github.com/Joacz/spring-gen"
