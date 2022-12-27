@@ -6,7 +6,7 @@
   "engines": {
     "vscode": "^1.74.0"
   },
-  "icon": "./SpringGEN-logo.jpg",
+  "icon": "SpringGEN-logo.jpg",
   "publisher": "Joagz",
   "repository": {
     "url": "https://github.com/Joacz/spring-gen"
